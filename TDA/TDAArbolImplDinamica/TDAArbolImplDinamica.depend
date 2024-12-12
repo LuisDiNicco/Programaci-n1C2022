@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654174718 source:c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdaarbolimpldinamica\tdaarbolimpldinamica.c
+	"../TDAArbol/TDAArbol.h"
+
+1654174734 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdaarbol\tdaarbol.h
+	"../TDAArbolImplDinamica/TDAArbolImplDinamica.h"
+
+1654169808 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdaarbolimpldinamica\tdaarbolimpldinamica.h
+	"../Nodo/NodoA.h"
+
+1654172189 c:\users\flia. dinico\desktop\ejercicios de clase\tda\nodo\nodoa.h
+	"../../Comun/Comun.h"
+
+1654171534 c:\users\flia. dinico\desktop\ejercicios de clase\comun\comun.h
+	<stdlib.h>
+

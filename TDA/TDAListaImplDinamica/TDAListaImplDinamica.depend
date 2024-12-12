@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1652724464 source:c:\users\laboratorios\desktop\tdalista\tdalistaimpldinamica\tdalistaimpldinamica.c
+
+1653526938 source:c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdalistaimpldinamica\tdalistaimpldinamica.c
+	<stdio.h>
+	"../TDALista/TDALista.h"
+
+1653570267 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdalista\tdalista.h
+	<string.h>
+	"../../Comun/Comun.h"
+	"../TDAListaImplEstatica/TDAListaImplEstatica.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1652962270 c:\users\flia. dinico\desktop\ejercicios de clase\comun\comun.h
+	<stdlib.h>
+
+1652938126 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653570267 c:\users\flia. dinico\desktop\ejercicios de clase\tda\nodo\nodo.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../../Comun/Comun.h"
+
+1653330282 source:c:\users\laboratorios\downloads\tdalistaimpldinamica\tdalistaimpldinamica.c
+	"../TDALista/TDALista.h"
+
+1653330380 c:\users\laboratorios\downloads\tdalista\tdalista.h
+	<string.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplEstatica/TDAListaImplEstatica.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+
+1652947870 c:\users\laboratorios\downloads\comun\comun.h
+	<stdlib.h>
+
+1652952526 c:\users\laboratorios\downloads\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653326791 c:\users\laboratorios\downloads\nodo\nodo.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../Comun/Comun.h"
+
+1653570493 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdalistaimpldinamicadoble\tdalistaimpldinamicadoble.h
+	"../Nodo/NodoD.h"
+
+1653570682 c:\users\flia. dinico\desktop\ejercicios de clase\tda\nodo\nodod.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../../Comun/Comun.h"
+
+1654437774 source:d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdalistaimpldinamica\tdalistaimpldinamica.c
+	<stdio.h>
+	"../TDALista/TDALista.h"
+
+1654437691 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdalista\tdalista.h
+	<string.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplEstatica/TDAListaImplEstatica.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1652938126 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1654437715 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\nodo\nodo.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../Comun/Comun.h"
+
+1653570493 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdalistaimpldinamicadoble\tdalistaimpldinamicadoble.h
+	"../Nodo/NodoD.h"
+
+1653570682 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\nodo\nodod.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../../Comun/Comun.h"
+
+1654171534 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\comun\comun.h
+	<stdlib.h>
+
+1654437682 source:d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdalistaimpldinamica\tdalistaimpldinamica2.c
+	<stdio.h>
+	"../TDALista/TDALista.h"
+

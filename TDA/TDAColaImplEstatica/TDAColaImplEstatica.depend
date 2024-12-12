@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1652354760 source:c:\users\flia. dinico\desktop\ejercicios de clase\tdacolaimplestatica\tdacolaimplestatica.c
+
+1653257937 source:c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdacolaimplestatica\tdacolaimplestatica.c
+	<string.h>
+	"../TDACola/TDACola.h"
+
+1653565440 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdacola\tdacola.h
+	<stddef.h>
+	"../../Comun/Comun.h"
+	"../TDAColaImplEstatica/TDAColaImplEstatica.h"
+	"../TDAColaImplDinamica/TDAColaImplDinamica.h"
+	"../TDAColaImplDinamicaCircular/TDAColaImplDinamicaCircular.h"
+
+1654171534 c:\users\flia. dinico\desktop\ejercicios de clase\comun\comun.h
+	<stdlib.h>
+
+1652356545 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdacolaimplestatica\tdacolaimplestatica.h
+	<stddef.h>
+
+1652708868 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdacolaimpldinamica\tdacolaimpldinamica.h
+
+1653567927 c:\users\flia. dinico\desktop\ejercicios de clase\tda\tdacolaimpldinamicacircular\tdacolaimpldinamicacircular.h
+	"../Nodo/Nodo.h"
+
+1653570267 c:\users\flia. dinico\desktop\ejercicios de clase\tda\nodo\nodo.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../../Comun/Comun.h"
+
+1653257937 source:d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdacolaimplestatica\tdacolaimplestatica.c
+	<string.h>
+	"../TDACola/TDACola.h"
+
+1654394465 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdacola\tdacola.h
+	<stddef.h>
+	"../Comun/Comun.h"
+	"../TDAColaImplEstatica/TDAColaImplEstatica.h"
+	"../TDAColaImplDinamica/TDAColaImplDinamica.h"
+	"../TDAColaImplDinamicaCircular/TDAColaImplDinamicaCircular.h"
+
+1654171534 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\comun\comun.h
+	<stdlib.h>
+
+1652356545 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdacolaimplestatica\tdacolaimplestatica.h
+	<stddef.h>
+
+1652708868 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdacolaimpldinamica\tdacolaimpldinamica.h
+
+1653567927 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\tdacolaimpldinamicacircular\tdacolaimpldinamicacircular.h
+	"../Nodo/Nodo.h"
+
+1653570267 d:\luis\unlam\6º unlam quinto cuatrimestre (2022)\programacion\tda\nodo\nodo.h
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	"../../Comun/Comun.h"
+
